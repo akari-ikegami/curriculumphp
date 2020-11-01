@@ -1,0 +1,16 @@
+body{
+  background-color: gray;
+}
+
+h1{
+  color: white;
+  font-family: serif;
+  text-align: center;
+  margin-top: 100px;
+  border-bottom: 5px solid white;
+}
+
+.box{
+  text-align: center;
+  margin-top: 50px;
+}
